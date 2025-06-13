@@ -1,11 +1,12 @@
 import Navbar from "./components/Navbar";
+import ClubList from "./components/clubList";
 import FooterWeb from "./components/footerWeb";
 
 function Clubs(){
     return (
     <>
         <Navbar/>
-        <h3 className='bg-amber-200'>halaman clubs</h3>
+        <ClubList/>
         <FooterWeb/>
     </>
   )
