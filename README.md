@@ -2,7 +2,13 @@
 
 **Club Finder** adalah aplikasi web berbasis React yang membantu mahasiswa kampus Plantaran menemukan, menjelajahi, dan bergabung dengan berbagai klub sesuai minat mereka. Aplikasi ini menampilkan daftar klub, detail klub, event mendatang, serta memungkinkan penyimpanan status klub yang sudah diikuti melalui `localStorage`.
 
-![Club Finder Screenshot](./src/assets/homePage.png)(./src/assets/aboutPage.png)
+![Club Finder Screenshot](./src/assets/homePage.png)
+![Club Finder Screenshot](./src/assets/aboutPage.png)
+![Club Finder Screenshot](./src/assets/clubListPage.png)
+![Club Finder Screenshot](./src/assets/clubListPage-list.png)
+![Club Finder Screenshot](./src/assets/clubDetailPage.png)
+![Club Finder Screenshot](./src/assets/clubDetailPage-join.png)
+![Club Finder Screenshot](./src/assets/404Page.png)
 ---
 
 ## Fitur Utama
